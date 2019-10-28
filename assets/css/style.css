@@ -14,7 +14,7 @@ Assigned to:	ThemeStarz
 
 [Color codes]
 
-default_color[#ff0000];
+default_color[#008000];
 Text: #363636;
 
 [Typography]
@@ -64,7 +64,7 @@ Headers:		'Varela Round', sans-serif;
     content: "?";
     color: #fff;
     font-weight: bold;
-    background-color: #ff0000;
+    background-color: #008000;
     height: 30px;
     width: 30px;
     line-height: 28px;
@@ -78,7 +78,7 @@ Headers:		'Varela Round', sans-serif;
     height: 0;
     border-style: solid;
     border-width: 8px 4px 0 4px;
-    border-color: #ff0000 transparent transparent transparent;
+    border-color: #008000 transparent transparent transparent;
     content: "";
     position: absolute;
     left: 41px;
@@ -258,7 +258,7 @@ Headers:		'Varela Round', sans-serif;
     position: relative;
 }
 .blog-posts-navigation i {
-    color: #ff0000;
+    color: #008000;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -328,7 +328,7 @@ Headers:		'Varela Round', sans-serif;
     height: 6rem;
     text-align: center;
     line-height: 5.8rem;
-    background-color: #ff0000;
+    background-color: #008000;
     box-shadow: 0 0.2rem .7rem 0 rgba(0,0,0, .08);
     border-radius: 50%;
     left: 0;
@@ -415,7 +415,7 @@ Headers:		'Varela Round', sans-serif;
     margin-bottom: 3rem;
 }
 .feature-box figure {
-    background-color: #ff0000;
+    background-color: #008000;
     border-radius: 50%;
     width: 9rem;
     height: 9rem;
@@ -514,7 +514,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .hero .main-navigation .navbar ul.navbar-nav li.nav-item.has-child:hover > a.nav-link {}
 .hero .main-navigation .navbar ul.navbar-nav li.nav-item.has-child:hover > a.nav-link:after {
-    color: #ff0000;
+    color: #008000;
 }
 /*------ Main navigation list item ------*/
 /*------ 1st level list ------*/
@@ -644,7 +644,7 @@ Headers:		'Varela Round', sans-serif;
     position: absolute;
     right: 0;
     bottom: -4.1rem;
-    background-color: #ff0000;
+    background-color: #008000;
     padding: 1rem 1.4rem;
     color: #fff;
     border-bottom-left-radius: .3rem;
@@ -745,7 +745,7 @@ Headers:		'Varela Round', sans-serif;
     position: relative;
     top: -.3rem;
     margin-left: 1rem;
-    background-color: #ff0000;
+    background-color: #008000;
     color: #fff;
 }
 .hero .page-title h4 {
@@ -765,7 +765,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .hero .page-title .price .number {
     font-family: 'Varela Round',sans-serif;
-    color: #ff0000;
+    color: #008000;
     font-size: 3.6rem;
     line-height: 1.1;
 }
@@ -998,12 +998,12 @@ Headers:		'Varela Round', sans-serif;
 .items:not(.selectize-input) .item .detail {
     bottom: 1.8rem;
     left: 1.8rem;
-    color: #ff0000;
+    color: #008000;
     transition: .3s background-color ease;
     position: absolute;
 }
 .items:not(.selectize-input) .item .detail:after {
-    background-color: #ff0000;
+    background-color: #008000;
 }
 .items:not(.selectize-input) .item figure {
     margin-bottom: 0;
@@ -1033,7 +1033,7 @@ Headers:		'Varela Round', sans-serif;
 .items:not(.selectize-input) .item.call-to-action .wrapper .title i {
     display: block;
     font-size: 2.4rem;
-    color: #ff0000;
+    color: #008000;
     margin-bottom: 1rem;
 }
 .items:not(.selectize-input) .item.call-to-action .wrapper:hover {
@@ -1177,7 +1177,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .items:not(.selectize-input).list .item h3 a:not(.category):hover {
     text-decoration: none;
-    color: #ff0000;
+    color: #008000;
 }
 .items:not(.selectize-input).list .item h3 .tag:not(.category) {
     position: relative;
@@ -1253,7 +1253,7 @@ Headers:		'Varela Round', sans-serif;
     right: 2rem;
     bottom: 2rem;
     left: inherit;
-    border: .1rem solid #ff0000;
+    border: .1rem solid #008000;
     padding: 1rem;
     text-transform: none;
     font-size: 1.4rem;
@@ -1261,7 +1261,7 @@ Headers:		'Varela Round', sans-serif;
     z-index: 2;
 }
 .items:not(.selectize-input).list .item .detail:hover {
-    background-color: #ff0000;
+    background-color: #008000;
     color: #fff;
 }
 .items:not(.selectize-input).list .item .detail:after {
@@ -1346,7 +1346,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .items:not(.selectize-input).list.compact .item .detail:hover {
     background-color: transparent;
-    color: #ff0000;
+    color: #008000;
 }
 .items:not(.selectize-input).list.compact .item .detail:after {
     display: block;
@@ -1396,7 +1396,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .map .infobox-wrapper .ribbon-featured {
     right: 0;
-    background-color: #ff0000;
+    background-color: #008000;
     padding: .5rem;
     text-transform: uppercase;
     font-weight: 700;
@@ -1523,7 +1523,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .nav-pills .nav-link {}
 .nav-pills .nav-link.active {
-    background-color: #ff0000;
+    background-color: #008000;
 }
 .tab-content {
     padding-top: 2rem;
@@ -1597,7 +1597,7 @@ Headers:		'Varela Round', sans-serif;
     height: 5rem;
 }
 .owl-carousel.gallery-carousel .owl-nav .owl-prev i, .owl-carousel.gallery-carousel .owl-nav .owl-next i, .owl-carousel.full-width-carousel .owl-nav .owl-prev i, .owl-carousel.full-width-carousel .owl-nav .owl-next i {
-    background-color: #ff0000;
+    background-color: #008000;
     width: 5rem;
     text-align: center;
     line-height: 5rem;
@@ -1630,7 +1630,7 @@ Headers:		'Varela Round', sans-serif;
     opacity: 1;
 }
 .owl-carousel.gallery-carousel-thumbs .owl-thumb.active-thumb {
-    box-shadow: inset 0 0 0 .3rem #ff0000;
+    box-shadow: inset 0 0 0 .3rem #008000;
     opacity: 1;
 }
 /********
@@ -1743,7 +1743,7 @@ Headers:		'Varela Round', sans-serif;
     box-shadow: 0 0.2rem .7rem 0 rgba(0,0,0, .08);
 }
 .page-pagination > nav .pagination .page-item.active .page-link {
-    background-color: #ff0000;
+    background-color: #008000;
     color: #fff;
     box-shadow: 0 .1rem 2rem rgba(0,0,0,.15);
 }
@@ -1771,7 +1771,7 @@ Headers:		'Varela Round', sans-serif;
     right: -10px;
     text-align: center;
     line-height: 75px;
-    color: #ff0000;
+    color: #008000;
     font-size: 18px;
     font-weight: bold;
 }
@@ -1792,7 +1792,7 @@ Headers:		'Varela Round', sans-serif;
     border-bottom: none;
 }
 .pricing ul li.available {
-    color: #ff0000;
+    color: #008000;
 }
 .pricing ul li.not-available {
     color: rgba(0,0,0,, .5);
@@ -1809,7 +1809,7 @@ Headers:		'Varela Round', sans-serif;
     border-bottom-color: rgba(255,255,255,.2);
 }
 .pricing.featured:not(.box) figure {
-    background-color: #ff0000;
+    background-color: #008000;
     color: #fff;
 }
 .pricing.description {
@@ -1841,7 +1841,7 @@ Headers:		'Varela Round', sans-serif;
     padding: 0 .1rem;
 }
 .rating i.active {
-    color: #ff0000;
+    color: #008000;
     opacity: 1;
 }
 .read-more {
@@ -1875,7 +1875,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .ribbon-featured .ribbon-content {
     box-shadow: 0 0.1rem rgba(0,0,0,.15);
-    background-color: #ff0000;
+    background-color: #008000;
     text-transform: uppercase;
     color: #fff;
     font-weight: 600;
@@ -1884,7 +1884,7 @@ Headers:		'Varela Round', sans-serif;
     padding: .7rem;
 }
 .ribbon-featured .ribbon-content:after {
-    background-color: #ff0000;
+    background-color: #008000;
     width: .5rem;
     height: 100%;
     content: "";
@@ -1893,7 +1893,7 @@ Headers:		'Varela Round', sans-serif;
     right: -.5rem;
 }
 .ribbon-featured .ribbon-content:before {
-    background-color: #ff0000;
+    background-color: #008000;
     width: 1rem;
     height: 1rem;
     position: absolute;
@@ -1903,7 +1903,7 @@ Headers:		'Varela Round', sans-serif;
     border-top-right-radius: 50%;
 }
 .ribbon-featured .ribbon-start, .ribbon-featured .ribbon-start::after {
-    background: #ff0000;
+    background: #008000;
     content: "";
     display: inline-block;
     height: 1rem;
@@ -1937,11 +1937,11 @@ Headers:		'Varela Round', sans-serif;
 }
 .ribbon-featured .ribbon-end:before, .ribbon-featured .ribbon-end .ribbon-shadow::before {
     border-width: 0 1.5rem 1.5rem 0;
-    border-color: transparent #ff0000 transparent transparent;
+    border-color: transparent #008000 transparent transparent;
 }
 .ribbon-featured .ribbon-end:after, .ribbon-featured .ribbon-end .ribbon-shadow::after {
     border-width: 0 0 1.5rem 1.5rem;
-    border-color: transparent transparent #ff0000 transparent;
+    border-color: transparent transparent #008000 transparent;
     bottom: 0;
 }
 .ribbon-featured .ribbon-end .ribbon-shadow::before {
@@ -2051,7 +2051,7 @@ Headers:		'Varela Round', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
 .tag:hover {
-    background-color: #ff0000;
+    background-color: #008000;
 }
 .tags {}
 .tags.framed .tag {
@@ -2089,11 +2089,11 @@ Headers:		'Varela Round', sans-serif;
     }
     60% {
         width: 100%;
-        background-color: #ff0000;
+        background-color: #008000;
     }
     100% {
         left: 0;
-        background-color: #ff0000;
+        background-color: #008000;
     }
 }
 @keyframes show-form-slide-animation {
@@ -2249,7 +2249,7 @@ Headers:		'Varela Round', sans-serif;
 }
 .ui-slider .noUi-base .noUi-connect {
     box-shadow: none;
-    background-color: #ff0000;
+    background-color: #008000;
 }
 .ui-slider .noUi-base .noUi-background {
     box-shadow: none;
@@ -2259,8 +2259,8 @@ Headers:		'Varela Round', sans-serif;
     transition: .2s;
     border-radius: 50%;
     box-shadow: none;
-    border: 2px solid #ff0000;
-    background-color: #ff0000;
+    border: 2px solid #008000;
+    background-color: #008000;
     cursor: pointer;
     height: 10px;
     width: 10px;
@@ -2305,10 +2305,10 @@ a:hover, a:focus, a:active {
     text-decoration: none;
 }
 a:hover {
-    color: #ff0000;
+    color: #008000;
 }
 a.icon i {
-    color: #ff0000;
+    color: #008000;
     margin-right: 1rem;
     font-size: 1.2rem;
 }
@@ -2332,17 +2332,17 @@ a.text-uppercase {
     font-weight: 600;
 }
 a.link {
-    color: #ff0000;
+    color: #008000;
 }
 a.nav-link i {
     color: inherit;
     opacity: .3;
 }
 a.nav-link.active {
-    color: #ff0000;
+    color: #008000;
 }
 a.nav-link.active i {
-    color: #ff0000;
+    color: #008000;
     opacity: 1;
 }
 body, html {
@@ -2407,7 +2407,7 @@ figure.with-icon {
     padding-left: 2.5rem;
 }
 figure.with-icon i {
-    color: #ff0000;
+    color: #008000;
     position: absolute;
     line-height: 2rem;
     left: 0;
@@ -2450,7 +2450,7 @@ ul.features-checkboxes li, ol.features-checkboxes li, dl.features-checkboxes li 
 ul.features-checkboxes li:before, ol.features-checkboxes li:before, dl.features-checkboxes li:before {
     width: 2rem;
     height: 2rem;
-    background-color: #ff0000;
+    background-color: #008000;
     border-radius: .3rem;
     content: "";
     display: inline-block;
@@ -2505,11 +2505,11 @@ header, footer {
     background-color: transparent;
 }
 .btn.btn-framed.btn-primary {
-    color: #ff0000;
+    color: #008000;
 }
 .btn.btn-framed.btn-primary:hover, .btn.btn-framed.btn-primary:focus, .btn.btn-framed.btn-primary:active {
-    background-color: #ff0000;
-    border-color: #ff0000;
+    background-color: #008000;
+    border-color: #008000;
     box-shadow: none;
     color: #fff;
 }
